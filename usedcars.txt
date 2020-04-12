@@ -1,0 +1,3 @@
+ABC123,2012,White,Toyota,Camry,12000
+ZXZ456,2007,Deep Blue,VW,Jetta,8000
+KB1D2S,2015,Black,Toyota,Carolla,13500

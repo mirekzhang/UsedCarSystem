@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CarList()
+comment1.params=
+comment1.target=void\ loadFile()
+comment2.params=
+comment2.target=void\ saveToFile()
+comment3.params=
+comment3.target=void\ listAllCars()
+comment4.params=num
+comment4.target=void\ getOneDetail(int)
+comment5.params=
+comment5.target=java.lang.String[]\ getAllDetails()
+comment6.params=carDetail
+comment6.target=void\ addCar(java.lang.String[])
+comment7.params=carReg
+comment7.target=void\ deleteCar(java.lang.String)
+numComments=8

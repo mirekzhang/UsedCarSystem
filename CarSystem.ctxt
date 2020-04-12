@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CarSystem()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CarSystem\r\n
+comment1.params=
+comment1.target=void\ deleteCar()
+comment2.params=
+comment2.target=void\ addCar()
+comment3.params=
+comment3.target=void\ search()
+comment4.params=
+comment4.target=void\ startSystem()
+numComments=5
